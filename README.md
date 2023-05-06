@@ -1,4 +1,4 @@
-Hello, Im Amanda💞️. 
+Hello, I'm Amanda💞️. 
 I enjoy working on projects and I'm interested in web development.
 I’m currently learning React.
 You can reach me at gwen.amalyn@gmail.com
