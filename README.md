@@ -6,9 +6,13 @@
   
 - Constructive feedback and suggestions are always welcome. I believe in the power of constant improvement and honing my skills to deliver exceptional results.
 
-- My main focus is on web development 
+- My main focus is on web development
 
-  ### Contacts
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ama-lyn&theme=tokyonight-duo)](https://git.io/streak-stats)
+
+### Contacts
   Reach me via gwen.amalyn@gmail.com for any inquiries and collaborations
 
 #### 
